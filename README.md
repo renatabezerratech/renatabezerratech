@@ -1,7 +1,8 @@
 
 # Olá! Bem vindo ao meu GitHub.
 
-##Meu nome é *Renata*.👩‍💻
+<h2>Meu nome é <i>Renata</I>.👩‍💻
+
  - 🌍Sou brasileira;
  - 💻Graduanda em Análise e desenvolvimento de sistemas na Estácio.
  - 💻Graduanda em Tecnologia em sistemas da computação na UFF.
