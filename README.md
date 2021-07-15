@@ -2,6 +2,7 @@
 # Olá! Bem vindo ao meu GitHub.
 
 <h2>Meu nome é <i>Renata</I>.👩‍💻
+  <img align="right" src="Imagens/Eu.png" width="200">
 
  - 🌍Sou brasileira;
  - 💻Graduanda em Análise e desenvolvimento de sistemas na Estácio.
@@ -10,7 +11,7 @@
  
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/renata-silva-bezerra-645b02207/)  <a href="https://web.digitalinnovation.one/users/renatabezerratecnologia?tab=achievements"><img src="Imagens/Dio_Logo.png" alt="Dio" width = "45"></a>
 
-<img align="right" src="Imagens/Eu.png" width="200">
+
  
  
  
