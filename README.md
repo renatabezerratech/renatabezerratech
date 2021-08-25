@@ -2,7 +2,7 @@
 # Olá! Bem vindo ao meu GitHub.
 
 <h2>Meu nome é <i>Renata</i>.👩‍💻
-  <img align="right" src="Imagens/analista.png" width="200">
+  <img align="right" src="Imagens/analista.png" width="300">
 
  - 🌍Sou brasileira;
  - 💻Graduanda em Análise e desenvolvimento de sistemas na Estácio.
