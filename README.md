@@ -1,5 +1,5 @@
 
-# Olá! Bem vindo ao meu GitHub.
+# Olá! Bem vindo ao meu GitHub.🙋‍♀️
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/renata-silva-bezerra-645b02207/)&nbsp;[![Dio](https://img.shields.io/badge/-DigitalInnovationOne-grey?logo=https://hermes.digitalinnovation.one/assets/diome/logo.svg&logoColor=white&style=flat)](https://web.digitalinnovation.one/users/renatabezerratecnologia?tab=achievements)&nbsp;[![youtube](https://img.shields.io/badge/-youtube-red?logo=youtube&logoColor=white&style=flat)](https://www.youtube.com/channel/UCtB0on6Gk8FKW-gZTLxQRXA)
 
@@ -11,6 +11,7 @@ Meu nome é **<i>Renata</i>**.👩‍💻
  - 💻Graduanda em Análise e desenvolvimento de sistemas na Estácio.
  - 💻Graduanda em Tecnologia em sistemas da computação na UFF.
  - 🎓Técnica em Redes de computadores no SENAI.
+ - 🏢Estagiária de desenvolvimento na TIM Brasil.
 
 ## 👩🏻‍💻 Habilidades
 ### Logic
