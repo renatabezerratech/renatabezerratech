@@ -11,7 +11,7 @@ Meu nome é **<i>Renata</i>**.👩‍💻
  - 💻Graduanda em Análise e desenvolvimento de sistemas na Estácio.
  - 💻Graduanda em Tecnologia em sistemas da computação na UFF.
  - 🎓Técnica em Redes de computadores no SENAI.
- - 🏢Estagiária de desenvolvimento na TIM Brasil.
+ 
 
 ## 👩🏻‍💻 Habilidades
 ### Logic
