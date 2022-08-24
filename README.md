@@ -5,7 +5,7 @@
 
 
 Meu nome é **<i>Renata</i>**.👩‍💻
-  <img align="right" src="Imagens/analista.png" width="300">
+  <img align="right" src="Imagens/Emblemas_IBM.png" width="350">
 
  - 🌍Sou brasileira;
  - 💻Graduanda em Análise e desenvolvimento de sistemas na Estácio.
