@@ -6,7 +6,7 @@
 
 
 Meu nome é **<i>Renata</i>**.👩‍💻
-  <img align="right" src="CredenciaisIBM.png" width="250">
+  <img align="right" src="CredenciaisIBM.png" width="200">
 
  - 💻Formada em Análise e desenvolvimento de sistemas - Estácio.
  - 🎓Técnica em Redes de computadores - SENAI.
@@ -27,9 +27,6 @@ Meu nome é **<i>Renata</i>**.👩‍💻
 ### Operational Systems
 ![MacOS](https://img.shields.io/badge/-MacOS-cccccc?style=flat&logoColor=white&logo=apple) ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logoColor=yellow&logo=linux) ![Windows](https://img.shields.io/badge/-Windows-0066ff?style=flat&logoColor=white&logo=windows)
 
-##
-
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatabezerratech&layout=compact&langs_count=7&theme=tokyonight"/>
 
 
  
