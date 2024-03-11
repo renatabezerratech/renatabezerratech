@@ -6,7 +6,7 @@
 
 
 Meu nome é **<i>Renata</i>**.👩‍💻
-  <img align="right" src="CredenciaisIBM.png" width="100">
+  <img align="right" src="CredenciaisIBM.png" width="150">
 
  - 💻Formada em Análise e desenvolvimento de sistemas - Estácio.
  - 🎓Técnica em Redes de computadores - SENAI.
