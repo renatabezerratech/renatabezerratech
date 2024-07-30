@@ -6,10 +6,10 @@
 
 
 Meu nome é **<i>Renata</i>**.👩‍💻
-  <img align="right" src="CredenciaisIBM.png" width="150">
 
- - 💻Formada em Análise e desenvolvimento de sistemas - Estácio.
- - 🎓Técnica em Redes de computadores - SENAI.
+ - 💻 Cursando Bacharelado em Ciência da Computação - Universidades Estácio de Sá. 
+ - 💻 Formada na graduação tecnológica especializada em Análise e desenvolvimento de sistemas - Universidades Estácio de Sá.
+ - 🎓 Técnica em Redes de computadores - SENAI/RJ.
 
 ## 👩🏻‍💻 Habilidades
 ### Logic
@@ -28,8 +28,22 @@ Meu nome é **<i>Renata</i>**.👩‍💻
 ![MacOS](https://img.shields.io/badge/-MacOS-cccccc?style=flat&logoColor=white&logo=apple) ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logoColor=yellow&logo=linux) ![Windows](https://img.shields.io/badge/-Windows-0066ff?style=flat&logoColor=white&logo=windows)
 
 
+## 👩🏻‍💻 Estágio na IBM - período: Julho/2021 até Julho/2023.
+Atividades desempenhadas durante o estágio:
+QA - Quality Assurance:  em Quality Assurance (QA) na IBM desempenhamos a garantia da qualidade dos produtos e serviços da empresa, através de execução de casos de teste pré-definidos, verificando se o software funciona conforme o esperado pelo cliente, identificamos e registramos bugs e falhas no sistema, assim como verificamos incompatibilidades do sistema com sua documentação, criamos relatórios detalhados sobre os resultados dos testes para atestar a subida para produção ou não. 
+Maior detalhamento:
+Análise de requisitos:
+Leitura e compreensão dos requisitos funcionais e não funcionais do software.
+Criação de casos de teste baseados nos requisitos.
+Automação de testes:
+Desenvolvimento de scripts de teste automatizados para aumentar a eficiência e cobertura dos testes (no meu caso: Python). 
+Participação em reuniões:
+Participação em reuniões de planejamento, acompanhamento e revisão de projetos. Apresentação dos resultados dos testes para a equipe.
+Geração de relatórios:
+Criação de relatórios concisos e informativos sobre a qualidade do software, incluindo métricas e indicadores de desempenho.
 
- 
+ <img align="right" src="CredenciaisIBM.png" width="200">
+
 
 
  
