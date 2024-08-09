@@ -41,10 +41,18 @@ Participação em reuniões de planejamento, acompanhamento e revisão de projet
 Geração de relatórios:
 Criação de relatórios concisos e informativos sobre a qualidade do software, incluindo métricas e indicadores de desempenho.
 
- <img align="right" src="CredenciaisIBM.png" width="300">
+ <img align="right" src="CredenciaisIBM.png" width="250">
 
+ Design thinking "na veia"  😎
 
+ Design thinking é uma metodologia de resolução de problemas que foca no usuário, tendo empatia por ele e determinando a melhor experiência que o usuário pode ter.
 
- 
+ 🕵🏽‍♀️ identifique o problema
+
+ 👩🏽‍💼 determine os objetivos do projeto
+
+ 👩🏽‍💻 desenvolva personas que simulem usuários finais
+
+ ✍🏽 documente os requisitos da solução
  
  
