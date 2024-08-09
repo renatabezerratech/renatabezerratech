@@ -6,8 +6,8 @@
 
 Meu nome é **<i>Renata</i>**.👩‍💻
 
- - 💻 Cursando Bacharelado em Ciência da Computação - Universidades Estácio de Sá. 
- - 💻 Formada na graduação tecnológica especializada em Análise e desenvolvimento de sistemas - Universidades Estácio de Sá.
+ - 💻 Cursando Bacharelado em Ciência da Computação - Universidade Estácio de Sá. 
+ - 💻 Formada na graduação tecnológica especializada em Análise e desenvolvimento de sistemas - Universidade Estácio de Sá.
  - 🎓 Técnica em Redes de computadores - SENAI/RJ.
 
 ## 👩🏻‍💻 Habilidades
