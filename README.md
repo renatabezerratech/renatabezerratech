@@ -1,14 +1,14 @@
 <img src="Imagens/topo.png" width="100%">
 
-# Olá! Bem vindo ao meu GitHub.🙋‍♀️    <img src="Imagens/logo.png" width="30%"  align="right">
+# Olá! Bem vindo ao meu GitHub. :sunglasses:    <img src="Imagens/logo.png" width="30%"  align="right">
 
 
 
 Meu nome é **<i>Renata</i>**.👩‍💻
 
- - 💻 Cursando Bacharelado em Ciência da Computação - Universidade Estácio de Sá. 
- - 💻 Formada na graduação tecnológica especializada em Análise e desenvolvimento de sistemas - Universidade Estácio de Sá.
- - 🎓 Técnica em Redes de computadores - SENAI/RJ.
+ - :star: Cursando Bacharelado em Ciência da Computação - Universidade Estácio de Sá. 
+ - :star: Formada na graduação tecnológica especializada em Análise e desenvolvimento de sistemas - Universidade Estácio de Sá.
+ - :star: Técnica em Redes de computadores - SENAI/RJ.
 
 ## 👩🏻‍💻 Habilidades
 
@@ -57,5 +57,13 @@ Criação de relatórios concisos e informativos sobre a qualidade do software, 
  👩🏽‍💻 desenvolva personas que simulem usuários finais
 
  ✍🏽 documente os requisitos da solução
+
+
+
+ ## :octocat: Como estamos no Git Hub, aí vai algumas observações: :feet:
+
+ O git é um sistema de controle de versão para rastrear alterações no código-fonte durante o desenvolvimento de software, ele é instalado localmente em um computador.
+
+ O git hub é um serviço online que fornece um lugar para hospedar código-fonte, bem como contribuir e colaborar. 
  
  
